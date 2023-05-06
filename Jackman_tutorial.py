@@ -1,3 +1,5 @@
+# Original Tutorial: https://towardsdatascience.com/create-stunning-fractal-art-with-python-a-tutorial-for-beginners-c83817fcb64b
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
